@@ -1,4 +1,5 @@
-# Dice-Rolls-App
+# Dice-Rolls-App 🎲
+
 Minha primeira aplicação com Android Studio com JetPack Compose. 
 
 **Estado**:
