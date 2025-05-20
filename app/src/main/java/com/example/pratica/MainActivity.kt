@@ -115,14 +115,11 @@ fun DadoComImagemBotao(modifier: Modifier = Modifier.fillMaxSize()
     }
 }
 
-@Preview(showBackground = true)
+@Preview(
+    showBackground = true,
+    showSystemUi = true
+)
 @Composable
 fun AppPreview() {
-    App()
-}
-
-@Preview()
-@Composable
-fun AppPreview2() {
     App()
 }
